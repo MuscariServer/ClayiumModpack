@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	shape: "diamond",
+	dependencies: [
+		"f03c051e",
+		"88fd501a"
+	],
+	tasks: [{
+		uid: "6e0b72c3",
+		type: "item",
+		items: [{
+			item: "clayium:meta_grinding_head 1 151"
+		}]
+	}]
+}

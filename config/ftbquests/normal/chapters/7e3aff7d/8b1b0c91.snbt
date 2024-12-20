@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -3.5d,
+	dependencies: [
+		"0484c638",
+		"35ff5b69"
+	],
+	tasks: [{
+		uid: "685fe5e6",
+		type: "item",
+		items: [{
+			item: "clayium:meta_gem 1 201"
+		}]
+	}]
+}

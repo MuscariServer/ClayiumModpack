@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e44e6b58",
+		type: "item",
+		items: [{
+			item: "clayium:machine_hull 1 7"
+		}]
+	}]
+}

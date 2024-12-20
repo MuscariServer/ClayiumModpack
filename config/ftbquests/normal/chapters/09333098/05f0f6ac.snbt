@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -6.0d,
+	dependencies: [
+		"6e1b15ae",
+		"43b6b665"
+	],
+	tasks: [{
+		uid: "50e810ef",
+		type: "item",
+		items: [{
+			item: "clayium:clay_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

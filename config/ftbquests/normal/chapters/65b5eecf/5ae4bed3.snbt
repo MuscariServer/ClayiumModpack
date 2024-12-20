@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"ea6e1e89"
+	],
+	tasks: [{
+		uid: "463cc099",
+		type: "item",
+		items: [{
+			item: "clayium:meta_impure_dust 1 58"
+		}]
+	}]
+}

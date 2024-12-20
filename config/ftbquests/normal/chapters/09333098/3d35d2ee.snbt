@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: -7.0d,
+	dependencies: [
+		"1523cedf"
+	],
+	tasks: [{
+		uid: "7a06b94f",
+		type: "item",
+		items: [{
+			item: "clayium:clay_slicer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -3.0d,
+	y: -5.0d,
+	shape: "diamond",
+	dependencies: [
+		"e6d54dca"
+	],
+	tasks: [{
+		uid: "549fa0cc",
+		type: "item",
+		items: [{
+			item: "clayium:clay_spatula"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

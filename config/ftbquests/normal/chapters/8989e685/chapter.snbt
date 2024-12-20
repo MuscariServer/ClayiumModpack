@@ -1,0 +1,7 @@
+{
+	title: "Tier4 & Tier5",
+	icon: "clayium:meta_ingot 1 511",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

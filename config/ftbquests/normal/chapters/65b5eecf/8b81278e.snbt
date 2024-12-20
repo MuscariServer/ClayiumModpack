@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"d5707d16",
+		"5ae4bed3"
+	],
+	tasks: [{
+		uid: "5b79e65a",
+		type: "item",
+		items: [{
+			item: "clayium:meta_ingot 1 504"
+		}]
+	}]
+}

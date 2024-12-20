@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	dependencies: [
+		"68dd4f47"
+	],
+	tasks: [{
+		uid: "f041189b",
+		type: "item",
+		items: [{
+			item: "clayium:clay_parts 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"89d1abf5"
+	],
+	tasks: [{
+		uid: "c80ef1d6",
+		type: "item",
+		items: [{
+			item: "clayium:machine 1 701"
+		}]
+	}]
+}

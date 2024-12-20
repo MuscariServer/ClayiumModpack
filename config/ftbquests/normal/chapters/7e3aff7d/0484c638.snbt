@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "77b74f82",
+		type: "item",
+		items: [{
+			item: "clayium:clay_parts 1 25"
+		}]
+	}]
+}

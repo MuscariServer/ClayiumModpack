@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"d1b7a042",
+		"787bf3ac"
+	],
+	tasks: [{
+		uid: "1e0c61d1",
+		type: "item",
+		items: [{
+			item: "clayium:clay_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

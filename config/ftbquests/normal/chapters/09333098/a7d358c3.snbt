@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -5.0d,
+	shape: "diamond",
+	dependencies: [
+		"8c86af8b"
+	],
+	tasks: [{
+		uid: "0d40c20a",
+		type: "item",
+		items: [{
+			item: "clayium:meta_pipe 1 151"
+		}]
+	}]
+}

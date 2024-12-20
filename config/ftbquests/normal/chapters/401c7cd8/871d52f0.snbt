@@ -1,0 +1,15 @@
+{
+	x: -5.5d,
+	y: 1.0d,
+	dependencies: [
+		"80b7b495",
+		"3bd10b9e"
+	],
+	tasks: [{
+		uid: "34184992",
+		type: "item",
+		items: [{
+			item: "clayium:meta_small_ring 1 152"
+		}]
+	}]
+}

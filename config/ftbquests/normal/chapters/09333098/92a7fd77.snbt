@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	size: 3.0d,
+	tasks: [{
+		uid: "dbfb7076",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}]
+	}]
+}

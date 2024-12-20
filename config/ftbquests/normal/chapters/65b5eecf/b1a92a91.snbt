@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "square",
+	tasks: [{
+		uid: "f9977051",
+		type: "item",
+		items: [{
+			item: "clayium:clay_parts 1 4"
+		}]
+	}]
+}

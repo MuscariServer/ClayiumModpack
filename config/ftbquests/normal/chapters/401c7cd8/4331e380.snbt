@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	dependencies: [
+		"3bd10b9e"
+	],
+	tasks: [{
+		uid: "8a366d75",
+		type: "item",
+		items: [{
+			item: "clayium:meta_cylinder 1 152"
+		}]
+	}]
+}

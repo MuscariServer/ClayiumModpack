@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -6.0d,
+	shape: "diamond",
+	dependencies: [
+		"f03c051e"
+	],
+	tasks: [{
+		uid: "950aa07a",
+		type: "item",
+		items: [{
+			item: "clayium:meta_wheel 1 151"
+		}]
+	}]
+}

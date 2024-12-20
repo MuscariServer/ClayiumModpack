@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: 0.0d,
+	shape: "diamond",
+	dependencies: [
+		"d1b7a042",
+		"871d52f0",
+		"bae8440e",
+		"6dcd280b",
+		"787bf3ac"
+	],
+	tasks: [{
+		uid: "40eb992b",
+		type: "item",
+		items: [{
+			item: "clayium:meta_spindle 1 152"
+		}]
+	}]
+}

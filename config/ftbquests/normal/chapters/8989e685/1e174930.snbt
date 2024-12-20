@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"f34916f4"
+	],
+	tasks: [{
+		uid: "d243e33a",
+		type: "item",
+		items: [{
+			item: "clayium:quartz_crucible"
+		}]
+	}]
+}

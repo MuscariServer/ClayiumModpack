@@ -1,0 +1,7 @@
+{
+	title: "Tier1",
+	icon: "clayium:compressed_clay_7 1 8",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	size: 3.0d,
+	tasks: [{
+		uid: "b669f1d3",
+		type: "item",
+		items: [{
+			item: "clayium:machine_hull 1 7"
+		}]
+	}]
+}

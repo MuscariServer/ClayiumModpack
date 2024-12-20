@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	dependencies: [
+		"8b13b355"
+	],
+	tasks: [{
+		uid: "8564961a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:saltitem"
+		}]
+	}]
+}

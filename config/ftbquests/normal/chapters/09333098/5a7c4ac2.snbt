@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	dependencies: [
+		"43813d17"
+	],
+	tasks: [{
+		uid: "57b681d5",
+		type: "item",
+		items: [{
+			item: "clayium:clay_rolling_pin"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

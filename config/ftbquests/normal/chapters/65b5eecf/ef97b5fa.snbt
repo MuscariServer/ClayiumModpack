@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"c425002e"
+	],
+	tasks: [{
+		uid: "4771d377",
+		type: "item",
+		items: [{
+			item: "clayium:machine 1 201"
+		}]
+	}]
+}

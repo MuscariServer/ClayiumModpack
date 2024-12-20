@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"6e1b15ae"
+	],
+	tasks: [{
+		uid: "7d412b05",
+		type: "item",
+		items: [{
+			item: "clayium:meta_short_stick 1 151"
+		}]
+	}]
+}
