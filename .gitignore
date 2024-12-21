@@ -8,3 +8,5 @@ saves
 local
 llibrary
 journeymap
+minecraftinstance.json
+usercache.json
