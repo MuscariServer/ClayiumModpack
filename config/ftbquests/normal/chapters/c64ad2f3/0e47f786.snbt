@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "3f438d4b",
+		type: "checkmark",
+		title: "Twitter(X)"
+	}],
+	rewards: [{
+		uid: "afa77e2a",
+		type: "command",
+		auto: "enabled",
+		command: "/tell @p https://x.com/Muscari_Network"
+	}]
+}

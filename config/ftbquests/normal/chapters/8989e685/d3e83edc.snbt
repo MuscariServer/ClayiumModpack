@@ -2,6 +2,7 @@
 	x: 1.5d,
 	y: -6.0d,
 	dependencies: [
+		"2002f062",
 		"4199effc",
 		"32c2c58c",
 		"87b46efa"

@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -17.0d,
+	shape: "square",
+	tasks: [{
+		uid: "1cf5b209",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lunalus"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

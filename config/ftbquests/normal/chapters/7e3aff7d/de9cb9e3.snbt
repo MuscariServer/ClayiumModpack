@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -6.5d,
+	shape: "square",
+	tasks: [{
+		uid: "8914c846",
+		type: "item",
+		items: [{
+			item: "contenttweaker:celeve"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "1f0a942a",
+		type: "checkmark",
+		title: "Discord Server"
+	}],
+	rewards: [{
+		uid: "0955a3cf",
+		type: "command",
+		auto: "enabled",
+		command: "/tell @p https://discord.gg/fD483b6EEP"
+	}]
+}

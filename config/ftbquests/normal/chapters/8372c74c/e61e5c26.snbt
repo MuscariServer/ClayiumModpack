@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"323353a3",
+		"e3550486",
+		"8f9cd549",
+		"f9a18109",
+		"ae036ae8",
+		"a7a57d59",
+		"c20bdbe4"
+	],
+	tasks: [{
+		uid: "9fca024d",
+		type: "item",
+		items: [{
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

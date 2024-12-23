@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -14.5d,
+	shape: "square",
+	tasks: [{
+		uid: "391b50a0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:immortallis"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

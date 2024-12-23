@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -20.0d,
+	shape: "square",
+	tasks: [{
+		uid: "e56f517b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:overworld"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

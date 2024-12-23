@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -11.0d,
+	shape: "square",
+	tasks: [{
+		uid: "5a296754",
+		type: "item",
+		items: [{
+			item: "contenttweaker:greckon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

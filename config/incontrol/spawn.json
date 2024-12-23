@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "dimension": 0,
+        "minheight": 150,
+        "hostile": true,
+        "result": "deny"
+    }
+]

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -7.0d,
+	shape: "square",
+	tasks: [{
+		uid: "c41ba861",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gardencia"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

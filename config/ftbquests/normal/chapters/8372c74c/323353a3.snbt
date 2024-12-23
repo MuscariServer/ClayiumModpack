@@ -1,0 +1,13 @@
+{
+	x: -1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "eabf47df",
+		type: "item",
+		items: [{
+			item: "contenttweaker:deeplands"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

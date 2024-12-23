@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -4.5d,
+	shape: "square",
+	tasks: [{
+		uid: "921780cf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:voxponds"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

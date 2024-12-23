@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -0.5d,
+	shape: "hexagon",
+	text: [
+		"当環境ではCE-FE Converterが有効になっており、発電方法は他にありません。",
+		"そのため、以下のブロック/アイテムはTier4まで実質使用不可です。",
+		"・Controller (AE2)",
+		"・Wiress Terminal系アイテム (AE2)",
+		"・JetPack (Iron Jetpacks)",
+		"・Lasergun (PlusTiC)"
+	],
+	tasks: [{
+		uid: "3168f9ee",
+		type: "checkmark",
+		title: "エネルギー(FE)について"
+	}]
+}

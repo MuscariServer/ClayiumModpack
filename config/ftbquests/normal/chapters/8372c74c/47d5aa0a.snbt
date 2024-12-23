@@ -1,12 +1,14 @@
 {
 	x: 0.0d,
 	y: 0.0d,
+	dependencies: [
+		"d2ed870c"
+	],
 	tasks: [{
-		uid: "26ae36e9",
+		uid: "986f8543",
 		type: "item",
 		items: [{
-			item: "clayium:meta_gem 1 210"
-		}],
-		count: 2147483647L
+			item: "contenttweaker:pa19x"
+		}]
 	}]
 }

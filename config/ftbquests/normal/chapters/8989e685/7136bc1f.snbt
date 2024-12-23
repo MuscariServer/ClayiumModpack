@@ -3,6 +3,7 @@
 	y: -3.0d,
 	shape: "diamond",
 	dependencies: [
+		"2cffc7cb",
 		"c2907821",
 		"fa080f16"
 	],

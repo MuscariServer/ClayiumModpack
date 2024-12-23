@@ -1,0 +1,78 @@
+{
+    "populate": {
+        "clayium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "clayium:clay_ore",
+				"material": [
+                    "minecraft:stone",
+                    "undergroundbiomes:igneous_stone",
+                    "undergroundbiomes:metamorphic_stone",
+                    "undergroundbiomes:sedimentary_stone"
+                ],
+				"cluster-size": 24
+			},
+			"cluster-count": 20,
+			"min-height": 0,
+			"max-height": 128,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+
+        "denseclayium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "clayium:dense_clay_ore",
+				"material": [
+                    "minecraft:stone",
+                    "undergroundbiomes:igneous_stone",
+                    "undergroundbiomes:metamorphic_stone",
+                    "undergroundbiomes:sedimentary_stone"
+                ],
+				"cluster-size": 10
+			},
+			"cluster-count": 20,
+			"min-height": 0,
+			"max-height": 128,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+
+        "laegedenseclayium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "clayium:large_dense_clay_ore",
+				"material": [
+                    "minecraft:stone",
+                    "undergroundbiomes:igneous_stone",
+                    "undergroundbiomes:metamorphic_stone",
+                    "undergroundbiomes:sedimentary_stone"
+                ],
+				"cluster-size": 6
+			},
+			"cluster-count": 5,
+			"min-height": 10,
+			"max-height": 16,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		}
+    }
+}

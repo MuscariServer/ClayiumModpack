@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	text: [
+		"地上は強化されたモンスターが蔓延っており、序盤に降り立つべきではありません。",
+		"序盤は黄昏の森やエーテル、Tier1AoAディメンションから攻略しましょう。"
+	],
+	tasks: [{
+		uid: "8bb95a6d",
+		type: "checkmark",
+		title: "Overworldについて"
+	}]
+}

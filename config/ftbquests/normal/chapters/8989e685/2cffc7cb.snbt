@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	shape: "square",
+	tasks: [{
+		uid: "a264f612",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystevia"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Welcome!",
+	x: 0.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	text: [
+		"Journey of Clayium",
+		"for Muscari Networkへようこそ！",
+		"This is a modpack for Muscari Network Server only.",
+		"It is almost impossible to progress with Singleplayer."
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "e5670240",
+		type: "checkmark"
+	}]
+}

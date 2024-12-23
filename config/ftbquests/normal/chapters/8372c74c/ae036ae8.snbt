@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "a9fba635",
+		type: "item",
+		items: [{
+			item: "contenttweaker:twilight"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

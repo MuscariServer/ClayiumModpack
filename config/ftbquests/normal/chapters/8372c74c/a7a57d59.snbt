@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "491b44d5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:barathos"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

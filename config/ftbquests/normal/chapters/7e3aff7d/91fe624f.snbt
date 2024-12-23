@@ -1,0 +1,14 @@
+{
+	x: 6.5d,
+	y: -19.0d,
+	shape: "square",
+	tasks: [{
+		uid: "e7115dcf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:runandor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

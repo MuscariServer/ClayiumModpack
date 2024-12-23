@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	shape: "square",
+	tasks: [{
+		uid: "09ceae9c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iromine"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

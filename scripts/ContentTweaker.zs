@@ -2,6 +2,7 @@
 
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Item;
+import mods.contenttweaker.Block;
 
 #Compressed Pure Antimatter
 var pa9x = VanillaFactory.createItem("pa9x"); 
@@ -69,6 +70,11 @@ var aether = VanillaFactory.createItem("aether");
 aether.maxStackSize = 1; 
 aether.rarity = "epic";
 aether.register();
+
+var ancientcavern = VanillaFactory.createItem("ancientcavern"); 
+ancientcavern.maxStackSize = 1; 
+ancientcavern.rarity = "epic";
+ancientcavern.register();
 
 var barathos = VanillaFactory.createItem("barathos"); 
 barathos.maxStackSize = 1; 
@@ -179,3 +185,30 @@ var voxponds = VanillaFactory.createItem("voxponds");
 voxponds.maxStackSize = 1; 
 voxponds.rarity = "epic";
 voxponds.register();
+
+var ic5H = VanillaFactory.createBlock("ic5h", <blockmaterial:iron>); 
+ic5H.register();
+
+var ic6H = VanillaFactory.createBlock("ic6h", <blockmaterial:iron>); 
+ic6H.register();
+
+var ic7H = VanillaFactory.createBlock("ic7h", <blockmaterial:iron>); 
+ic7H.register();
+
+var ic8H = VanillaFactory.createBlock("ic8h", <blockmaterial:iron>); 
+ic8H.register();
+
+var ic9H = VanillaFactory.createBlock("ic9h", <blockmaterial:iron>); 
+ic9H.register();
+
+var ic10H = VanillaFactory.createBlock("ic10h", <blockmaterial:iron>); 
+ic10H.register();
+
+var ic11H = VanillaFactory.createBlock("ic11h", <blockmaterial:iron>); 
+ic11H.register();
+
+var ic12H = VanillaFactory.createBlock("ic12h", <blockmaterial:iron>); 
+ic12H.register();
+
+var ic13H = VanillaFactory.createBlock("ic13h", <blockmaterial:iron>); 
+ic13H.register();

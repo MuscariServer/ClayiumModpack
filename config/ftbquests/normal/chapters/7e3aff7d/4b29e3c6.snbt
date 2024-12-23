@@ -3,7 +3,9 @@
 	y: -12.0d,
 	dependencies: [
 		"4b490f81",
-		"92cece14"
+		"92cece14",
+		"81c74534",
+		"4126b0c1"
 	],
 	size: 3.0d,
 	tasks: [{

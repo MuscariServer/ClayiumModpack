@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -5.5d,
+	shape: "square",
+	tasks: [{
+		uid: "98bf4d1c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:haven"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

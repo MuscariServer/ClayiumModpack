@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "575e13ba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lelyetia"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

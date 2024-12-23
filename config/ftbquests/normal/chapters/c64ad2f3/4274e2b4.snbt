@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "7b247789",
+		type: "checkmark",
+		title: "Youtube"
+	}],
+	rewards: [{
+		uid: "e459f7fe",
+		type: "command",
+		auto: "enabled",
+		command: "/tell @p https://www.youtube.com/channel/UCcaz3ypZ5YYM3uKeG4mPXtg"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -8.0d,
+	shape: "square",
+	tasks: [{
+		uid: "2d5fb8f2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:candyland"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

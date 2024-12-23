@@ -4,7 +4,9 @@
 	shape: "diamond",
 	dependencies: [
 		"3ed3a04a",
-		"f89564aa"
+		"e431c5c2",
+		"f89564aa",
+		"824e90a9"
 	],
 	tasks: [{
 		uid: "5569f691",

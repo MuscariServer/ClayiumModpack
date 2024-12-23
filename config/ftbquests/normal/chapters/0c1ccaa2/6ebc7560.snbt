@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -5.5d,
+	shape: "square",
+	tasks: [{
+		uid: "e27ea493",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mysterium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

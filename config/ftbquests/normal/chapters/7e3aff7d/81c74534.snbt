@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -13.0d,
+	shape: "square",
+	tasks: [{
+		uid: "d13641b2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dustopia"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
