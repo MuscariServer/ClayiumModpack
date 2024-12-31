@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: -15.5d,
+	shape: "square",
+	tasks: [{
+		uid: "ffa9e56f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ancientcavern"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

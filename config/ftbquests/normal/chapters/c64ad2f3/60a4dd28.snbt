@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: -2.5d,
+	shape: "hexagon",
+	text: [
+		"この環境は敵が非常に強く固いため、武器と素材の選別は慎重に行ってください。",
+		"本環境のTinkers' Constructガイドを報酬に設定しているので、ご覧になりながら武器を作ってください。"
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "bed45d33",
+		type: "checkmark",
+		title: "Tinkers' Constructについて"
+	}],
+	rewards: [{
+		uid: "5827a204",
+		type: "command",
+		auto: "enabled",
+		command: "/tell @p https://docs.google.com/spreadsheets/d/1tkTiKO7gBxfUHIoCsObSNulB_RydopJOIara9NNRDY8/edit?usp=sharing"
+	}]
+}

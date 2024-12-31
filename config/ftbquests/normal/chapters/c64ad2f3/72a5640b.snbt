@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	shape: "hexagon",
+	text: [
+		"FTB Utilitiesのチャンクロード機能はオフになっています。",
+		"ClayiumのTier6で作れるチャンクローダーを使いましょう。"
+	],
+	tasks: [{
+		uid: "84f5d740",
+		type: "checkmark",
+		title: "チャンクロード機能について"
+	}]
+}

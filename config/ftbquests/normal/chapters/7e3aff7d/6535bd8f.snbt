@@ -3,7 +3,8 @@
 	y: -15.0d,
 	dependencies: [
 		"15eb0bd2",
-		"763565f0"
+		"763565f0",
+		"d065f1c3"
 	],
 	size: 3.0d,
 	tasks: [{

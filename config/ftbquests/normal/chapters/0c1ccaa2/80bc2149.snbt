@@ -11,5 +11,26 @@
 		items: [{
 			item: "clayium:meta_ingot 1 505"
 		}]
+	}],
+	rewards: [{
+		uid: "17b25a4a",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyItem: {
+					id: "clayium:meta_ingot",
+					Count: 1b,
+					Damage: 505s
+				},
+				TrophyName: "The Clayium",
+				TrophyColorRed: 0,
+				TrophyColorGreen: 247,
+				TrophyColorBlue: 255,
+				TrophyVariant: "classic",
+				TrophyEarnedAt: 1735053448L,
+				TrophyShowsTooltip: 1b
+			}
+		}
 	}]
 }

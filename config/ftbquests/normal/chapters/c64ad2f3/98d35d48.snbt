@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	text: [
+		"当環境では、入るべきではない時期に高難度のディメンションに立ち入り、無意味な死を避けるために、進行に応じてゲートへの侵入が許可されるようになります。",
+		"制限状況は以下の通りです。",
+		"AoA Tier 2: 要Tier4 Machine Hull作成",
+		"AoA Tier 3: 要Tier10 Machine Hull作成",
+		"AoA Tier 4: 要Tier13 Machine Hull作成"
+	],
+	tasks: [{
+		uid: "b7f437e1",
+		type: "checkmark",
+		title: "ディメンション入場制限について"
+	}]
+}

@@ -9,5 +9,11 @@
 		items: [{
 			item: "clayium:machine_hull 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "c359e852",
+		type: "command",
+		auto: "enabled",
+		command: "/gamestage add @p tier2"
 	}]
 }

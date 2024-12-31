@@ -2,6 +2,7 @@
 	x: 0.0d,
 	y: -4.0d,
 	shape: "hexagon",
+	can_repeat: true,
 	tasks: [{
 		uid: "1f0a942a",
 		type: "checkmark",

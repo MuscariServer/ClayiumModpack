@@ -9,6 +9,28 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:pa19x"
-		}]
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "e49ca289",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyItem: {
+					id: "contenttweaker:pa19x",
+					Count: 1,
+					Damage: 0s
+				},
+				TrophyName: "Int MAX OPA!!!",
+				TrophyColorRed: 255,
+				TrophyColorGreen: 0,
+				TrophyColorBlue: 43,
+				TrophyVariant: "classic",
+				TrophyEarnedAt: 1735053242L,
+				TrophyShowsTooltip: 1b
+			}
+		}
 	}]
 }
