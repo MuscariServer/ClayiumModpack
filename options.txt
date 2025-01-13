@@ -6,12 +6,12 @@ gamma:1.0
 saturation:0.0
 renderDistance:12
 guiScale:2
-particles:0
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -91,7 +91,7 @@ key_key.toggle_shaders:0
 key_key.cstats:0
 key_key.resources:199
 key_key.skills:75
-key_key.adventGui:211
+key_key.adventGui:76
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
